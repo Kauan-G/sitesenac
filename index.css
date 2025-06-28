@@ -1,0 +1,44 @@
+body{background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);display:flex;
+  justify-content:center;
+  align-items:center;
+
+Reagir
+
+Responder
+
+}
+
+
+
+form {
+  background: #fff;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  gap:7px;
+  padding: 70px;
+  width: 150px;
+  margin-left: 70px;
+  margin-top: 100px;
+  /* arredondar as bordas */
+  border-radius: 10px;  
+}
+form input {
+  border: 1px solid rgb(9, 32, 238);
+  padding:7px;
+  border-radius: 5px;
+  outline:none;
+}
+form input:hover {
+  border: 1px solid rgb(28, 4, 236);
+}
+form label {
+  color: rgb(11, 7, 240);
+}
+
+
+
+
+
+
